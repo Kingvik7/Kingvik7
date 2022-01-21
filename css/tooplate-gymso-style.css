@@ -268,8 +268,11 @@ a:focus {
   border-bottom: 1px solid rgba(0,0,0,0.1);
   box-shadow: 6px 0 38px rgba(20, 20, 20, 0.05);
   backdrop-filter: blur(10px);
+<<<<<<< HEAD
   --webkit-backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
+=======
+>>>>>>> b59de04edf82f05361157a484a9b69ed78b69077
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
