@@ -267,7 +267,7 @@ a:focus {
   padding: 1rem;
   border-bottom: 1px solid rgba(0,0,0,0.1);
   box-shadow: 6px 0 38px rgba(20, 20, 20, 0.05);
-  backdrop-sepia: blur(10px);
+  backdrop-filter: blur(10px);
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
