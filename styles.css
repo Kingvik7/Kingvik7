@@ -36,6 +36,10 @@ img{
 
 .ipad{
   max-width: 100%;
+  /* background-color: rgba(0,0,0,0.1); */
+  filter: drop-shadow(0 25px 20px -6px rgb(0,0,0));
+  --webkit-filter: drop-shadow(0 25px 20px -6px rgb(0,0,0));
+  -webkit-filter: drop-shadow(0 25px 20px -6px rgb(0,0,0));
 }
 
   .div {
@@ -112,6 +116,7 @@ img{
 
   .customphone{
     max-width: 100%;
+    filter: drop-shadow(0 25px 20px -6px rgba(0,0,0,0.1));
   }
 
   .custompadding{
